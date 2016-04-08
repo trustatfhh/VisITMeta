@@ -97,7 +97,7 @@ Most settings will work just fine in your environment (or when using our
 Running
 =======
 1. Start a MAP server, e.g. irond (Download section at [Trust@HsH website] [12] or via
-[Github] [6]
+[Github] [6])
 
 2. Change your working directory to the root directory of the VisITMeta project.
 
